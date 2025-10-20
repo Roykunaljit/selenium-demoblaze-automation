@@ -1,0 +1,27 @@
+ERROR    TestPageFactory:test_page_factory.py:139 [FAIL] Login flow test failed: Message: element click intercepted: Element <a class="nav-link" href="#" id="login2" data-toggle="modal" data-target="#logInModal" style="display: block;">...</a> is not clickable at point (300, 86). Other element would receive the click: <div class="modal-header">...</div>
+  (Session info: chrome=141.0.7390.107)
+Stacktrace:
+#0 0x5629b23bf67a <unknown>
+#1 0x5629b1e3e566 <unknown>
+#2 0x5629b1e975cc <unknown>
+#3 0x5629b1e9544d <unknown>
+#4 0x5629b1e92ab2 <unknown>
+#5 0x5629b1e921c0 <unknown>
+#6 0x5629b1e8498b <unknown>
+#7 0x5629b1eb6632 <unknown>
+#8 0x5629b1e84307 <unknown>
+#9 0x5629b1eb67fe <unknown>
+#10 0x5629b1edc328 <unknown>
+#11 0x5629b1eb6403 <unknown>
+#12 0x5629b1e82b02 <unknown>
+#13 0x5629b1e837c1 <unknown>
+#14 0x5629b2383448 <unknown>
+#15 0x5629b23872af <unknown>
+#16 0x5629b236a8d9 <unknown>
+#17 0x5629b2387e55 <unknown>
+#18 0x5629b235013f <unknown>
+#19 0x5629b23ac4b8 <unknown>
+#20 0x5629b23ac693 <unknown>
+#21 0x5629b23be613 <unknown>
+#22 0x7f46d109caa4 <unknown>
+#23 0x7f46d1129c6c <unknown>

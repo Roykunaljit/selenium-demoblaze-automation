@@ -1,0 +1,11 @@
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:40 ==================================================
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:41 Starting new test
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:61 Navigated to DemoBlaze website
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:76 Testing browser windows and tabs
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:80 Main window handle: 0C43B2524F5A43AB9F2F4D03CECD5AEC
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:88 Total windows: 2
+INFO     TestDemoBlazeE2E:base_page.py:243 Switched to window: 0EF826B1F7FD060EC008FED8ECF695B9
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:94 Switched to window: 0EF826B1F7FD060EC008FED8ECF695B9
+INFO     TestDemoBlazeE2E:base_page.py:243 Switched to window: 0C43B2524F5A43AB9F2F4D03CECD5AEC
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:66 Test completed
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:67 ==================================================

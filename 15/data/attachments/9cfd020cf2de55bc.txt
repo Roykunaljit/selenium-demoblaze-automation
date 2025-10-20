@@ -1,0 +1,7 @@
+2025-10-20 14:32:04 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-20 14:32:04 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-20 14:32:05 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-20 14:32:05 - TestDemoBlazeE2E - INFO - test_31_file_upload - Testing file upload
+2025-10-20 14:32:19 - TestDemoBlazeE2E - INFO - test_31_file_upload - Cleaned up test file
+2025-10-20 14:32:19 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-20 14:32:19 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

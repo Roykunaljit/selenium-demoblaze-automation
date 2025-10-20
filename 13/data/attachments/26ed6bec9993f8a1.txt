@@ -1,0 +1,15 @@
+2025-10-18 10:14:08 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-18 10:14:08 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-18 10:14:08 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-18 10:14:08 - TestDemoBlazeE2E - INFO - test_32_broken_links_check - Running broken links check on The Internet homepage
+2025-10-18 10:14:11 - TestDemoBlazeE2E - INFO - check_broken_links - Checking for broken links...
+2025-10-18 10:14:11 - TestDemoBlazeE2E - INFO - check_broken_links - Found 46 links
+2025-10-18 10:14:12 - TestDemoBlazeE2E - WARNING - check_broken_links - BROKEN LINK: https://the-internet.herokuapp.com/basic_auth | Status: 401
+2025-10-18 10:14:12 - TestDemoBlazeE2E - WARNING - check_broken_links - BROKEN LINK: https://the-internet.herokuapp.com/digest_auth | Status: 401
+2025-10-18 10:14:14 - TestDemoBlazeE2E - WARNING - check_broken_links - BROKEN LINK: https://the-internet.herokuapp.com/download_secure | Status: 401
+2025-10-18 10:14:14 - TestDemoBlazeE2E - INFO - check_broken_links - Success: Broken Links Check Complete: 3 broken out of 46
+2025-10-18 10:14:14 - TestDemoBlazeE2E - INFO - test_32_broken_links_check - ✅ Found 43 valid links
+2025-10-18 10:14:14 - TestDemoBlazeE2E - WARNING - test_32_broken_links_check - ⚠️ Found 3 broken links: [('https://the-internet.herokuapp.com/basic_auth', 401), ('https://the-internet.herokuapp.com/digest_auth', 401), ('https://the-internet.herokuapp.com/download_secure', 401)]
+2025-10-18 10:14:14 - TestDemoBlazeE2E - INFO - test_32_broken_links_check - Success: Sufficient number of valid links confirmed!
+2025-10-18 10:14:14 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-18 10:14:14 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

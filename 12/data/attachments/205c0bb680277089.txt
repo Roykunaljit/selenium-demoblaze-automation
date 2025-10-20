@@ -1,0 +1,2 @@
+INFO     TestPageFactory:test_page_factory.py:114 Signup alert: Sign up successful.
+INFO     TestPageFactory:test_page_factory.py:137 [PASS] Login flow test passed

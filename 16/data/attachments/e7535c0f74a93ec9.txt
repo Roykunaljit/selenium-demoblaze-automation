@@ -1,0 +1,2 @@
+2025-10-20 17:29:56 - TestLinkChecker - INFO - test_check_internal_links - Testing internal links on https://www.w3.org/
+2025-10-20 17:30:03 - TestLinkChecker - INFO - test_check_internal_links - [PASS] Found 87 internal links

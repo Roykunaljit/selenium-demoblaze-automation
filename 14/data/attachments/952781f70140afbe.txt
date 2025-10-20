@@ -1,0 +1,1 @@
+2025-10-20 13:46:36 - TestLinkChecker - INFO - check_all_links - Found 0 elements to check

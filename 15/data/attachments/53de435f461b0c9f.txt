@@ -1,0 +1,15 @@
+2025-10-20 14:30:48 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-20 14:30:48 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-20 14:30:49 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-20 14:30:49 - TestDemoBlazeE2E - INFO - test_23_contact_form - Testing contact form
+2025-10-20 14:30:49 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//a[contains(text(),'Contact')]")
+2025-10-20 14:30:50 - TestDemoBlazeE2E - INFO - open_contact_modal - Opened contact modal
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'recipient-email'): harveyjennifer@example.com
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'recipient-name'): Nichole Wilson
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'message-text'): mhc9S5bVT1kpEXR6b8qu0ffbX1Btjbfz1zMWJltudNUFhxruwu
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - fill_contact_form - Filled contact form with email: harveyjennifer@example.com, name: Nichole Wilson
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//button[contains(text(),'Send message')]")
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - send_contact_message - Sent contact message
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - accept_alert - Accepted alert with text: Thanks for the message!!
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-20 14:30:51 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

@@ -1,0 +1,6 @@
+2025-10-20 14:32:37 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-20 14:32:37 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-20 14:32:38 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-20 14:32:38 - TestDemoBlazeE2E - INFO - test_33_radio_button_demo - Testing radio button selection on demoqa.com
+2025-10-20 14:33:38 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-20 14:33:38 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

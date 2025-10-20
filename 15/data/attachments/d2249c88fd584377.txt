@@ -1,0 +1,66 @@
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-20 14:30:10 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-20 14:30:10 - TestDemoBlazeE2E - INFO - test_20_complete_e2e_flow - Starting complete E2E shopping flow
+2025-10-20 14:30:10 - TestDemoBlazeE2E - INFO - click - Clicked element: ('id', 'signin2')
+2025-10-20 14:30:11 - TestDemoBlazeE2E - INFO - open_signup_modal - Opened signup modal
+2025-10-20 14:30:12 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'sign-username'): yskVbFjn
+2025-10-20 14:30:12 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'sign-password'): Test@1234
+2025-10-20 14:30:12 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//button[contains(text(),'Sign up')]")
+2025-10-20 14:30:12 - TestDemoBlazeE2E - INFO - signup - Signed up with username: yskVbFjn
+2025-10-20 14:30:13 - TestDemoBlazeE2E - INFO - accept_alert - Accepted alert with text: Sign up successful.
+2025-10-20 14:30:13 - TestDemoBlazeE2E - INFO - click - Clicked element: ('id', 'login2')
+2025-10-20 14:30:14 - TestDemoBlazeE2E - INFO - open_login_modal - Opened login modal
+2025-10-20 14:30:15 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'loginusername'): yskVbFjn
+2025-10-20 14:30:15 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'loginpassword'): Test@1234
+2025-10-20 14:30:15 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//button[contains(text(),'Log in')]")
+2025-10-20 14:30:15 - TestDemoBlazeE2E - INFO - login - Logged in with username: yskVbFjn
+2025-10-20 14:30:17 - TestDemoBlazeE2E - INFO - find_element - Found element: ('id', 'nameofuser')
+2025-10-20 14:30:17 - TestDemoBlazeE2E - INFO - get_text - Got text from element ('id', 'nameofuser'): Welcome yskVbFjn
+2025-10-20 14:30:17 - TestDemoBlazeE2E - INFO - find_element - Found element: ('id', 'nameofuser')
+2025-10-20 14:30:17 - TestDemoBlazeE2E - INFO - get_text - Got text from element ('id', 'nameofuser'): Welcome yskVbFjn
+2025-10-20 14:30:17 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//a[contains(text(),'Phones')]")
+2025-10-20 14:30:19 - TestDemoBlazeE2E - INFO - select_category - Selected category: phones
+2025-10-20 14:30:21 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//a[contains(text(), 'Samsung galaxy s6')]")
+2025-10-20 14:30:23 - TestDemoBlazeE2E - INFO - click_product - Clicked on product: Samsung galaxy s6
+2025-10-20 14:30:23 - TestDemoBlazeE2E - INFO - find_element - Found element: ('xpath', "//h2[@class='name']")
+2025-10-20 14:30:23 - TestDemoBlazeE2E - INFO - get_text - Got text from element ('xpath', "//h2[@class='name']"): Samsung galaxy s6
+2025-10-20 14:30:23 - TestDemoBlazeE2E - INFO - get_product_name - Retrieved product name: Samsung galaxy s6
+2025-10-20 14:30:23 - TestDemoBlazeE2E - INFO - find_element - Found element: ('xpath', "//h3[@class='price-container']")
+2025-10-20 14:30:23 - TestDemoBlazeE2E - INFO - get_text - Got text from element ('xpath', "//h3[@class='price-container']"): $360 *includes tax
+2025-10-20 14:30:23 - TestDemoBlazeE2E - INFO - get_product_price - Retrieved and cleaned product price: 360
+2025-10-20 14:30:23 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//a[contains(text(),'Add to cart')]")
+2025-10-20 14:30:24 - TestDemoBlazeE2E - INFO - accept_alert - Accepted alert with text: Product added.
+2025-10-20 14:30:24 - TestDemoBlazeE2E - INFO - add_to_cart - Product added to cart. Alert: Product added.
+2025-10-20 14:30:26 - TestDemoBlazeE2E - INFO - add_to_cart - Completed 'Add to cart' action
+2025-10-20 14:30:26 - TestDemoBlazeE2E - INFO - click - Clicked element: ('id', 'cartur')
+2025-10-20 14:30:28 - TestDemoBlazeE2E - INFO - go_to_cart - Navigated to cart
+2025-10-20 14:30:30 - TestDemoBlazeE2E - INFO - find_elements - Found 1 elements: ('xpath', "//tbody[@id='tbodyid']//tr")
+2025-10-20 14:30:30 - TestDemoBlazeE2E - INFO - get_cart_items_count - Cart contains 1 item(s)
+2025-10-20 14:30:30 - TestDemoBlazeE2E - INFO - find_element - Found element: ('id', 'totalp')
+2025-10-20 14:30:30 - TestDemoBlazeE2E - INFO - get_text - Got text from element ('id', 'totalp'): 360
+2025-10-20 14:30:30 - TestDemoBlazeE2E - INFO - get_total_price - Cart total price: $360
+2025-10-20 14:30:30 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//button[contains(text(),'Place Order')]")
+2025-10-20 14:30:31 - TestDemoBlazeE2E - INFO - place_order - Clicked 'Place Order'
+2025-10-20 14:30:32 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'name'): Alisha Burton
+2025-10-20 14:30:32 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'country'): USA
+2025-10-20 14:30:33 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'city'): New York
+2025-10-20 14:30:33 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'card'): 9565682946754103
+2025-10-20 14:30:33 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'month'): 12
+2025-10-20 14:30:33 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'year'): 2025
+2025-10-20 14:30:33 - TestDemoBlazeE2E - INFO - fill_order_form - Filled order form with shipping and payment details
+2025-10-20 14:30:33 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//button[contains(text(),'Purchase')]")
+2025-10-20 14:30:35 - TestDemoBlazeE2E - INFO - complete_purchase - Completed purchase
+2025-10-20 14:30:37 - TestDemoBlazeE2E - INFO - find_element - Found element: ('xpath', "//div[contains(@class, 'sweet-alert')]//h2[contains(text(), 'Thank you for your purchase!')]")
+2025-10-20 14:30:37 - TestDemoBlazeE2E - INFO - get_text - Got text from element ('xpath', "//div[contains(@class, 'sweet-alert')]//h2[contains(text(), 'Thank you for your purchase!')]"): Thank you for your purchase!
+2025-10-20 14:30:37 - TestDemoBlazeE2E - INFO - get_confirmation_text - Order confirmation received: Thank you for your purchase!...
+2025-10-20 14:30:37 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//button[contains(text(),'OK')]")
+2025-10-20 14:30:37 - TestDemoBlazeE2E - INFO - close_confirmation - Closed confirmation modal
+2025-10-20 14:30:38 - TestDemoBlazeE2E - INFO - click - Clicked element: ('id', 'logout2')
+2025-10-20 14:30:38 - TestDemoBlazeE2E - INFO - logout - Logged out
+2025-10-20 14:30:39 - TestDemoBlazeE2E - INFO - find_element - Found element: ('id', 'nameofuser')
+2025-10-20 14:30:39 - TestDemoBlazeE2E - INFO - get_text - Got text from element ('id', 'nameofuser'): 
+2025-10-20 14:30:39 - TestDemoBlazeE2E - INFO - take_screenshot - Screenshot saved: /home/runner/work/selenium-demoblaze-automation/selenium-demoblaze-automation/screenshots/e2e_complete.png
+2025-10-20 14:30:39 - TestDemoBlazeE2E - INFO - test_20_complete_e2e_flow - Complete E2E shopping flow completed successfully
+2025-10-20 14:30:39 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-20 14:30:39 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

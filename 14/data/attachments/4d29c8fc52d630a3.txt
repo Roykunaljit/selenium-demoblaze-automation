@@ -1,0 +1,26 @@
+2025-10-20 13:45:33 - TestFileUpload - INFO - _create_test_html - Test HTML file created at: /home/runner/work/selenium-demoblaze-automation/selenium-demoblaze-automation/selenium_demoblaze_framework/tests/../test_pages/multiple_upload_test.html
+2025-10-20 13:45:33 - TestFileUpload - INFO - setup - HTTP Server started on port 44603, serving from /home/runner/work/selenium-demoblaze-automation/selenium-demoblaze-automation/selenium_demoblaze_framework/tests/../test_pages
+2025-10-20 13:45:38 - TestFileUpload - INFO - create_test_file - Test file created: /home/runner/work/selenium-demoblaze-automation/selenium-demoblaze-automation/test_files/sample.txt
+2025-10-20 13:45:48 - TestFileUpload - ERROR - upload_file_using_send_keys - Failed to upload file using send_keys: Message: 
+Stacktrace:
+#0 0x560c5f23867a <unknown>
+#1 0x560c5ecb7566 <unknown>
+#2 0x560c5ed0968d <unknown>
+#3 0x560c5ed09921 <unknown>
+#4 0x560c5ed57e94 <unknown>
+#5 0x560c5ed2f65d <unknown>
+#6 0x560c5ed55328 <unknown>
+#7 0x560c5ed2f403 <unknown>
+#8 0x560c5ecfbb02 <unknown>
+#9 0x560c5ecfc7c1 <unknown>
+#10 0x560c5f1fc448 <unknown>
+#11 0x560c5f2002af <unknown>
+#12 0x560c5f1e38d9 <unknown>
+#13 0x560c5f200e55 <unknown>
+#14 0x560c5f1c913f <unknown>
+#15 0x560c5f2254b8 <unknown>
+#16 0x560c5f225693 <unknown>
+#17 0x560c5f237613 <unknown>
+#18 0x7f7b5ae9caa4 <unknown>
+#19 0x7f7b5af29c6c <unknown>
+

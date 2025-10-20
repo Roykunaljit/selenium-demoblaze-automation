@@ -1,0 +1,1 @@
+2025-10-20 17:31:40 - TestPageFactory - INFO - test_page_factory_product_details - [PASS] Product details test passed - Found 9 products

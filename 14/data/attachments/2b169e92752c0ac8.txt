@@ -1,0 +1,1 @@
+INFO     TestPageFactory:test_page_factory.py:89 [PASS] Navigation test passed

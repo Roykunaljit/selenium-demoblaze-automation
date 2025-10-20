@@ -1,0 +1,12 @@
+2025-10-20 17:25:51 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-20 17:25:51 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-20 17:25:52 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-20 17:25:52 - TestDemoBlazeE2E - INFO - test_08_screenshot_operations - Testing screenshot operations
+2025-10-20 17:25:52 - TestDemoBlazeE2E - INFO - take_screenshot - Screenshot saved: /home/runner/work/selenium-demoblaze-automation/selenium-demoblaze-automation/screenshots/full_page.png
+2025-10-20 17:25:52 - TestDemoBlazeE2E - INFO - find_element - Found element: ('id', 'nava')
+2025-10-20 17:25:52 - TestDemoBlazeE2E - INFO - take_element_screenshot - Element screenshot saved: /home/runner/work/selenium-demoblaze-automation/selenium-demoblaze-automation/screenshots/logo_screenshot.png
+2025-10-20 17:25:52 - TestDemoBlazeE2E - INFO - find_elements - Found 9 elements: ('class name', 'card')
+2025-10-20 17:25:53 - TestDemoBlazeE2E - INFO - take_screenshot - Screenshot saved: /home/runner/work/selenium-demoblaze-automation/selenium-demoblaze-automation/screenshots/highlighted_element.png
+2025-10-20 17:25:53 - TestDemoBlazeE2E - INFO - test_08_screenshot_operations - Screenshot operations completed
+2025-10-20 17:25:53 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-20 17:25:53 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

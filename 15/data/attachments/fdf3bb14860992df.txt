@@ -1,0 +1,18 @@
+2025-10-20 14:30:05 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-20 14:30:05 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-20 14:30:06 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-20 14:30:06 - TestDemoBlazeE2E - INFO - test_19_faker_data_generation - Testing with Faker generated data
+2025-10-20 14:30:06 - TestDemoBlazeE2E - INFO - test_19_faker_data_generation - Generated email: jonathan11@example.net
+2025-10-20 14:30:06 - TestDemoBlazeE2E - INFO - test_19_faker_data_generation - Generated name: Michael Tran
+2025-10-20 14:30:06 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//a[contains(text(),'Contact')]")
+2025-10-20 14:30:07 - TestDemoBlazeE2E - INFO - open_contact_modal - Opened contact modal
+2025-10-20 14:30:08 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'recipient-email'): jonathan11@example.net
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'recipient-name'): Michael Tran
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - send_keys - Sent keys to element ('id', 'message-text'): Message from Michael Tran
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - fill_contact_form - Filled contact form with email: jonathan11@example.net, name: Michael Tran
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - click - Clicked element: ('xpath', "//button[contains(text(),'Send message')]")
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - send_contact_message - Sent contact message
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - accept_alert - Accepted alert with text: Thanks for the message!!
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - test_19_faker_data_generation - Faker data testing completed
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-20 14:30:09 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

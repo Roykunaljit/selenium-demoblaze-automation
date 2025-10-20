@@ -1,0 +1,10 @@
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:40 ==================================================
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:41 Starting new test
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:61 Navigated to DemoBlaze website
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:849 Running broken links check on The Internet homepage
+INFO     TestDemoBlazeE2E:utility_methods.py:245 Checking for broken links...
+INFO     TestDemoBlazeE2E:utility_methods.py:247 Found 0 links
+INFO     TestDemoBlazeE2E:utility_methods.py:289 Success: Broken Links Check Complete: 0 broken out of 0
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:863 ✅ Found 0 valid links
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:66 Test completed
+INFO     TestDemoBlazeE2E:test_demoblaze_e2e.py:67 ==================================================

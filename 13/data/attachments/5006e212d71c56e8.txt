@@ -1,0 +1,9 @@
+2025-10-18 10:11:45 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-18 10:11:45 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-18 10:11:46 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-18 10:11:46 - TestDemoBlazeE2E - INFO - test_15_performance_metrics - Testing performance metrics
+2025-10-18 10:11:49 - TestDemoBlazeE2E - INFO - test_15_performance_metrics - Page load time: 44.40000000002328 ms
+2025-10-18 10:11:49 - TestDemoBlazeE2E - INFO - test_15_performance_metrics - Browser logs count: 2
+2025-10-18 10:11:49 - TestDemoBlazeE2E - INFO - test_15_performance_metrics - Performance metrics collected
+2025-10-18 10:11:49 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-18 10:11:49 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

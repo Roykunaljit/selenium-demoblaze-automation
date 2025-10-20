@@ -1,0 +1,10 @@
+2025-10-20 14:01:57 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-20 14:01:57 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-20 14:01:58 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-20 14:01:58 - TestDemoBlazeE2E - INFO - test_32_broken_links_check - Running broken links check on The Internet homepage
+2025-10-20 14:02:05 - TestDemoBlazeE2E - INFO - check_broken_links - Checking for broken links...
+2025-10-20 14:02:15 - TestDemoBlazeE2E - INFO - check_broken_links - Found 0 links
+2025-10-20 14:02:15 - TestDemoBlazeE2E - INFO - check_broken_links - Success: Broken Links Check Complete: 0 broken out of 0
+2025-10-20 14:02:15 - TestDemoBlazeE2E - INFO - test_32_broken_links_check - ✅ Found 0 valid links
+2025-10-20 14:02:15 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-20 14:02:15 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================

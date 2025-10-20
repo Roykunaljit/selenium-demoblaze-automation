@@ -1,0 +1,2 @@
+2025-10-18 10:15:45 - TestPageFactory - INFO - test_page_factory_login_flow - Signup alert: Sign up successful.
+2025-10-18 10:15:58 - TestPageFactory - INFO - test_page_factory_login_flow - [PASS] Login flow test passed

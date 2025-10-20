@@ -1,0 +1,11 @@
+2025-10-20 13:58:13 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
+2025-10-20 13:58:13 - TestDemoBlazeE2E - INFO - setup_and_teardown - Starting new test
+2025-10-20 13:58:15 - TestDemoBlazeE2E - INFO - setup_and_teardown - Navigated to DemoBlaze website
+2025-10-20 13:58:15 - TestDemoBlazeE2E - INFO - test_01_browser_windows_and_tabs - Testing browser windows and tabs
+2025-10-20 13:58:15 - TestDemoBlazeE2E - INFO - test_01_browser_windows_and_tabs - Main window handle: F6A218D724FCD288B609AD4657F53CCF
+2025-10-20 13:58:17 - TestDemoBlazeE2E - INFO - test_01_browser_windows_and_tabs - Total windows: 2
+2025-10-20 13:58:17 - TestDemoBlazeE2E - INFO - switch_to_window - Switched to window: CB55FCF19899C68D0A911F6347EB0AEC
+2025-10-20 13:58:17 - TestDemoBlazeE2E - INFO - test_01_browser_windows_and_tabs - Switched to window: CB55FCF19899C68D0A911F6347EB0AEC
+2025-10-20 13:58:17 - TestDemoBlazeE2E - INFO - switch_to_window - Switched to window: F6A218D724FCD288B609AD4657F53CCF
+2025-10-20 13:58:17 - TestDemoBlazeE2E - INFO - setup_and_teardown - Test completed
+2025-10-20 13:58:17 - TestDemoBlazeE2E - INFO - setup_and_teardown - ==================================================
